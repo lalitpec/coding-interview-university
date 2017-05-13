@@ -239,7 +239,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): 
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more. 
+            - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more. 
+    - [ ] [Google python course] ( https://developers.google.com/edu/python/): Google's own python learning course
 
 ## Pick One Language for the Interview
 
