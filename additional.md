@@ -7,3 +7,6 @@
     - 30 days to code
     - Cracking the coding interviews ( 20 problems)
     - Cracking Stats
+    
+   ## Git guide
+    - http://rogerdudler.github.io/git-guide/
